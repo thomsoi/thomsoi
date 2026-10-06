@@ -4,6 +4,7 @@ I'm a 3rd year Computer Science student at the University of St Andrews. I love 
 ## 🔧 Public projects
 [GoChat](https://github.com/thomsoi/gochat) - A chat backend built with Go which exposes a RESTful API for state management and WebSocket connections for real-time messaging for both direct messages and group chats.  
 [Student Management System](https://github.com/thomsoi/studentmanagementsystem) - A desktop application built with Java Swing for managing student records and module information.
+[GoEmber](https://github.com/thomsoi/goember) - A full-stack transport application built with Java, Spring Boot, and React which integrates Ember’s public API to provide live bus departures and journey tracking, alongside a digital passport for collecting visited stops, cities/towns, and bus routes.
 
 ## ⚡ Technical Skills
 - **Languages**: Java, Python, C, Go, JavaScript, HTML, SQL
